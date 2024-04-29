@@ -1,0 +1,15 @@
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\bin\Debug\net6.0\Session 1.exe
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\bin\Debug\net6.0\Session 1.deps.json
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\bin\Debug\net6.0\Session 1.runtimeconfig.json
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\bin\Debug\net6.0\Session 1.dll
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\bin\Debug\net6.0\Session 1.pdb
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.csproj.AssemblyReference.cache
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.AssemblyInfoInputs.cache
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.AssemblyInfo.cs
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.dll
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\refint\Session 1.dll
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.pdb
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\Session 1.genruntimeconfig.cache
+E:\Route\Back-end\5 LINQ\Demoes\Session 1 Solution\Session 1\obj\Debug\net6.0\ref\Session 1.dll
